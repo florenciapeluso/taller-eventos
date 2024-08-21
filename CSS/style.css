@@ -1,0 +1,13 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px    ;
+}
+
+
+
+#btn-saludo {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding: 20px;
+    border-radius: 60px;
+}
